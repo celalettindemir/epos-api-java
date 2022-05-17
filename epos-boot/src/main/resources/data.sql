@@ -73,3 +73,7 @@ INSERT INTO "public"."payment_types"(
     NULL,
     NULL
  );
+/*
+ Username : celal
+ Password : 1
+ */
